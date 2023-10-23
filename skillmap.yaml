@@ -1,58 +1,19 @@
-role_description: Your are a pedagogical professor in computer science, with 20+ years of experience.
+role_description: Your are a football coach for a ladies team in American football, with 10+ years of experience.
 course_description: |
-  The course is an introduction to parallel and concurrent programming, and the programming language is Go / Golang.
-  Assume students have some programming experience in another language, such as Java or Python.
-  Provide code snippets to make it more interesting, and format inline code as monospace.
-questions_per_skill: 10
+  The course is an introduction to rules and principles for punting.
+  Assume students have some experience of American football, but not of special teams.
+questions_per_skill: 1
 
 unit_1:
-  unit_name: Intro to Golang & Basic Concurrency
+  unit_name: Punting: rules, regulations and recommendations
 
   page_1:
-    page_name: What is parallelism and concurrency?
+    page_name: Punting
     skills:
-      - Understand the basics of concurrency & parallelism & sequential
-
-  page_2: 
-    page_name: Setting up Go
-    skills:
-      - Setup a functioning Go environment and set up Go modules
-
-  page_3:
-    page_name: Tour of Go 1 (Basics)
-    skills:
-      - "Understand and apply Golang fundamentals: Basic syntax"
-      - "Understand and apply Golang fundamentals: Types"
-      - "Understand and apply Golang fundamentals: Control structures"
-
-  page_4:
-    page_name: Tour of Go 2 (Data structures)
-    skills:
-      - "Understand and apply Golang fundamentals: Data structures (arrays, maps, slices)"
-
-  page_5:
-    page_name: Tour of Go 3 (Functions)
-    skills:
-      - "Understand and apply Golang fundamentals: Functions"
-      - "Understand and apply Golang fundamentals: Variadic parameter functions"
-      - "Understand and apply Golang fundamentals: Closures"
-      - "Understand and apply Golang fundamentals: Anonymous functions"
-
-  page_6:
-    page_name: Tour of Go 4 (Pointers, structs & methods)
-    skills:
-      - "Understand and apply Golang fundamentals: Pointers"
-      - "Understand and apply Golang fundamentals: Structs"
-      - "Understand and apply Golang fundamentals: Methods"
-
-  page_7:
-    page_name: How is Go different from Java?
-    skills:
-      - Be able to compare differences between Go and Java
-
-  page_8:
-    page_name: A touch of concurrency
-    skills:
-      - Primitives for concurrency in Go
-      - Making a Go program become concurrent
-      - Creating a channel for communication
+      - Understand the rules for advancing a punt
+      - Understand the rules for fair catch
+      - Understand the rules for tackling the punter
+      - Understand the rules for contact with the punt snapper
+      - Understand the rules for blocking by the punting team
+      - Understand the recommendation for length of blocking by the punting team’s front line
+      - Understand the blocking priorities for the punt shield
